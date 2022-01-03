@@ -13,3 +13,6 @@ Much of it must also be connected to a whole host of other things, and I hope th
 
 At the end of the day, there is one element on the court that cannot be captured in numbers. The goal is to capture everything else. 
 
+Read here: https://medium.com/@ambitiousbellydancingsquirrel
+
+
