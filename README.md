@@ -1,7 +1,7 @@
 # nbastats
 Collection of analyses &amp; visualisations done on various NBA datasets
 
-I've loved the sport of basketball for a long time and have been invested in the development of two things over the last few years - sports analytics & young generational talents. 
+I've loved basketball for a long time and have been invested in the development of two things over the last few years - sports analytics & young generational talents. 
 The last few years have blessed the basketball world with phenomenal talent, including the likes of Jayson Tatum, Donovan Mitchell, Luka Doncic, Trae Young, Ja Morant and so many more 
 who make up the new generation.
 
